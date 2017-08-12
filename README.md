@@ -24,7 +24,7 @@ Step 3: Your playlist is now in your clipboard, copy it into playlist.py, eg
 songs = [paste here]
 ```
 
-Step 4: Install [youtube-dl](https://rg3.github.io/youtube-dl/download.html), and [ffmpeg](http://www.ffmpegmac.net/) (`brew install ffmpeg`) 
+Step 4: Install [youtube-dl](https://rg3.github.io/youtube-dl/download.html) (`brew install youtube-dl`), and [ffmpeg](http://www.ffmpegmac.net/) (`brew install ffmpeg`) 
 
 Step 5: Open up Terminal, navigate to this repo, run `python raincloud.py`
 
