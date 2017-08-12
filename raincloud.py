@@ -5,7 +5,7 @@ songs = playlist.songs
 
 for song in songs:
     print song
-    subprocess.call("youtube-dl " + song, shell=True)
+    subprocess.call("youtube-dl " + song + " --add-metadata --embed-thumbnail", shell=True)
 
 print """
             ------               _____
