@@ -23,7 +23,7 @@ Step 3: Your playlist is now in your clipboard, copy it into playlist.py, eg
 ```
 songs = [paste here]
 ```
-Alternately, you may add a comma separated list of user names, which will download the entirety of each users tracks, eg
+Alternately, you may add a comma separated list of username urls, which will download the entirety of each users tracks, eg
 ```
 songs = ["https://soundcloud.com/vinnie_dplm", "https://soundcloud.com/dante-gbrl", "https://soundcloud.com/julychilduk"]
 ```
