@@ -23,6 +23,10 @@ Step 3: Your playlist is now in your clipboard, copy it into playlist.py, eg
 ```
 songs = [paste here]
 ```
+Alternately, you may add a comma separated list of user names, which will download the entirety of each users tracks, eg
+```
+songs = ["https://soundcloud.com/vinnie_dplm", "https://soundcloud.com/dante-gbrl", "https://soundcloud.com/julychilduk"]
+```
 
 Step 4: Install [youtube-dl](https://rg3.github.io/youtube-dl/download.html) (`brew install youtube-dl`), and [ffmpeg](http://www.ffmpegmac.net/) (`brew install ffmpeg`) 
 
